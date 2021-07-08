@@ -1,0 +1,1 @@
+﻿Get-ADUser -Identity “ozkan.burgac” -Properties “LastLogonDate” 
